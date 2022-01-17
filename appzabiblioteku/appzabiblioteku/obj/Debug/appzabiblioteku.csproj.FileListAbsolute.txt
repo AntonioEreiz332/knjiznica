@@ -1,0 +1,14 @@
+C:\Users\korisnik\source\repos\appzabiblioteku\appzabiblioteku\obj\Debug\appzabiblioteku.csproj.AssemblyReference.cache
+C:\Users\korisnik\source\repos\appzabiblioteku\appzabiblioteku\obj\Debug\appzabiblioteku.Form1.resources
+C:\Users\korisnik\source\repos\appzabiblioteku\appzabiblioteku\obj\Debug\appzabiblioteku.frm_unosKorisnika.resources
+C:\Users\korisnik\source\repos\appzabiblioteku\appzabiblioteku\obj\Debug\appzabiblioteku.Properties.Resources.resources
+C:\Users\korisnik\source\repos\appzabiblioteku\appzabiblioteku\obj\Debug\appzabiblioteku.csproj.GenerateResource.cache
+C:\Users\korisnik\source\repos\appzabiblioteku\appzabiblioteku\obj\Debug\appzabiblioteku.csproj.CoreCompileInputs.cache
+C:\Users\korisnik\source\repos\appzabiblioteku\appzabiblioteku\bin\Debug\appzabiblioteku.exe.config
+C:\Users\korisnik\source\repos\appzabiblioteku\appzabiblioteku\bin\Debug\appzabiblioteku.exe
+C:\Users\korisnik\source\repos\appzabiblioteku\appzabiblioteku\bin\Debug\appzabiblioteku.pdb
+C:\Users\korisnik\source\repos\appzabiblioteku\appzabiblioteku\obj\Debug\appzabiblioteku.exe
+C:\Users\korisnik\source\repos\appzabiblioteku\appzabiblioteku\obj\Debug\appzabiblioteku.pdb
+C:\Users\korisnik\source\repos\appzabiblioteku\appzabiblioteku\obj\Debug\appzabiblioteku.frm_posudivanje.resources
+C:\Users\korisnik\source\repos\appzabiblioteku\appzabiblioteku\obj\Debug\appzabiblioteku.frm_pretrazivanjePodataka.resources
+C:\Users\korisnik\source\repos\appzabiblioteku\appzabiblioteku\obj\Debug\appzabiblioteku.frm_unosKnjiga.resources
