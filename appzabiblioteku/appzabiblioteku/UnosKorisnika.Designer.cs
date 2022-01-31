@@ -119,6 +119,7 @@ namespace appzabiblioteku
             this.Controls.Add(this.txtbox_oibb);
             this.Controls.Add(this.lbl_oibb);
             this.Name = "frm_unosKorisnika";
+            this.Load += new System.EventHandler(this.frm_unosKorisnika_Load);
             this.ResumeLayout(false);
             this.PerformLayout();
 

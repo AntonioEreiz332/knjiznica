@@ -14,24 +14,45 @@ namespace appzabiblioteku
 {
     public partial class frm_unosKorisnika : Form
     {
+        
         public frm_unosKorisnika()
         {
             InitializeComponent();
-        }
+            
 
-        int oib;
-        string ime, prezime;
+        }
         
 
+        List<korisnik> korisnici = new List<korisnik>();
+
         private void btn_unesi_Click(object sender, EventArgs e)
+        { 
+            korisnik Korisnik = new korisnik(Convert.ToInt32(txtbox_oibb.Text), txtbox_imee.Text, txtbox_prezimee.Text);
+            korisnici.Add(Korisnik);
+            DialogResult result;
+
+            txtbox_oibb.Clear();
+            txtbox_imee.Clear();
+            txtbox_prezimee.Clear();
+
+            result = MessageBox.Show("Želite li nastaviti upisivati korisnike?", "Upozorenje", MessageBoxButtons.YesNo);
+            if (result == System.Windows.Forms.DialogResult.No)
+            {
+
+                
+            }
+
+        }
+
+        private void frm_unosKorisnika_Load(object sender, EventArgs e)
         {
-            oib = Convert.ToInt32(txtbox_oibb.Text);
-            ime = txtbox_imee.Text;
-            prezime = txtbox_prezimee.Text;
+            var korisniciXml = new XDocument();
+            var rootElem = new XElement("Korisnici");
+            korisniciXml.Add(rootElem);
+            foreach (korisnik in korisnici)
+            {
 
-            korisnik Korisnik = new korisnik(oib,ime,prezime);
-
-            var dokumentKorisnici = 
+            }
         }
 
         private void btn_izlazz_Click_1(object sender, EventArgs e)
