@@ -12,3 +12,17 @@ C:\Users\korisnik\source\repos\appzabiblioteku\appzabiblioteku\obj\Debug\appzabi
 C:\Users\korisnik\source\repos\appzabiblioteku\appzabiblioteku\obj\Debug\appzabiblioteku.frm_posudivanje.resources
 C:\Users\korisnik\source\repos\appzabiblioteku\appzabiblioteku\obj\Debug\appzabiblioteku.frm_pretrazivanjePodataka.resources
 C:\Users\korisnik\source\repos\appzabiblioteku\appzabiblioteku\obj\Debug\appzabiblioteku.frm_unosKnjiga.resources
+C:\Users\toni-PC\source\repos\appzabiblioteku\appzabiblioteku\obj\Debug\appzabiblioteku.csprojAssemblyReference.cache
+C:\Users\toni-PC\source\repos\appzabiblioteku\appzabiblioteku\obj\Debug\appzabiblioteku.Form1.resources
+C:\Users\toni-PC\source\repos\appzabiblioteku\appzabiblioteku\obj\Debug\appzabiblioteku.frm_posudivanje.resources
+C:\Users\toni-PC\source\repos\appzabiblioteku\appzabiblioteku\obj\Debug\appzabiblioteku.frm_pretrazivanjePodataka.resources
+C:\Users\toni-PC\source\repos\appzabiblioteku\appzabiblioteku\obj\Debug\appzabiblioteku.frm_unosKnjiga.resources
+C:\Users\toni-PC\source\repos\appzabiblioteku\appzabiblioteku\obj\Debug\appzabiblioteku.frm_unosKorisnika.resources
+C:\Users\toni-PC\source\repos\appzabiblioteku\appzabiblioteku\obj\Debug\appzabiblioteku.Properties.Resources.resources
+C:\Users\toni-PC\source\repos\appzabiblioteku\appzabiblioteku\obj\Debug\appzabiblioteku.csproj.GenerateResource.cache
+C:\Users\toni-PC\source\repos\appzabiblioteku\appzabiblioteku\obj\Debug\appzabiblioteku.csproj.CoreCompileInputs.cache
+C:\Users\toni-PC\source\repos\appzabiblioteku\appzabiblioteku\obj\Debug\appzabiblioteku.exe
+C:\Users\toni-PC\source\repos\appzabiblioteku\appzabiblioteku\obj\Debug\appzabiblioteku.pdb
+C:\Users\toni-PC\source\repos\appzabiblioteku\appzabiblioteku\bin\Debug\appzabiblioteku.exe.config
+C:\Users\toni-PC\source\repos\appzabiblioteku\appzabiblioteku\bin\Debug\appzabiblioteku.exe
+C:\Users\toni-PC\source\repos\appzabiblioteku\appzabiblioteku\bin\Debug\appzabiblioteku.pdb

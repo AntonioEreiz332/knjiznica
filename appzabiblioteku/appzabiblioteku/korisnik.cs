@@ -8,18 +8,18 @@ namespace appzabiblioteku
 {
     class korisnik
     {
-        int id_oib;
+        long id_oib;
         string ime;
         string prezime;
 
-        public korisnik(int id_oib, string ime, string prezime)
+        public korisnik(long id_oib, string ime, string prezime)
         {
             this.id_oib = id_oib;
             this.ime = ime;
             this.prezime = prezime;
         }
 
-        public int Id_oib { get => id_oib; set => id_oib = value; }
+        public long Id_oib { get => id_oib; set => id_oib = value; }
         public string Ime { get => ime; set => ime = value; }
         public string Prezime { get => prezime; set => prezime = value; }
     }
